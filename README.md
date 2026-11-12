@@ -26,13 +26,11 @@ Texturing from stock libraries is a grind: hours hunting for a texture that only
 
 ## Quick Start
 
-1. [Download][download-url] ai-texture-forge.zip from Releases — the bundle targets Windows x64 with Blender 4.2 or later.
-2. Unblock the downloaded ZIP, then open Blender's extension installer — launch PowerShell, copy the command below, paste it and press Enter:
-   `powershell Unblock-File -Path "$HOME\Downloads\ai-texture-forge.zip"`
-   In Blender open `Edit → Preferences → Get Extensions → menu → Install from Disk`.
-3. Select the ZIP in the file dialog, enable **ai-texture-forge** and open the panel: `3D Viewport → N → ai-texture-forge`.
+1. Download **`mcp-for-blender-pro.zip`** from [Releases](../../releases/latest).
+2. In Blender, open **Edit → Preferences → Get Extensions → menu → Install from Disk**.
+3. Select the ZIP, enable **mcp-for-blender-pro**, then open **3D Viewport → N → MCP Pro**.
 4. Choose a provider, add your connection details and select a model.
-5. Send a message in Blender or click **Open Studio Window** — keep Blender open while using Studio or an external client.
+5. Send a message in Blender or click **Open Studio Window**.
 
 ## Features
 
